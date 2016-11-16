@@ -1,7 +1,6 @@
 # Code for Good 2016
 
-Project worked over the course of 18 hours to build a project for BRIC
-BRIC is an arts & media organziation that showcases events in Brooklyn, NY
+Project worked over the course of 18 hours to build a project for BRIC. BRIC is an arts & media organziation that showcases events in Brooklyn, NY
 
 They needed a solution that allows users to upload content to their servers, which would eventually be streamed on their TV channels
 
